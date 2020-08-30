@@ -1,0 +1,10 @@
+{
+  "title": "Your Intro To",
+  "url": "https://intro.lloyd.cx/",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "LloydTao/intro.lloyd.cx",
+  "twitter": "LloydTao"
+}
